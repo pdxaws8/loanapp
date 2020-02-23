@@ -1,2 +1,2 @@
-# loanapp
-Business logic for the loan app
+# AWS SMP
+Business logic for the AWS SMP
